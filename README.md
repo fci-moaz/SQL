@@ -14,3 +14,8 @@
    - Using `CASE`
    - Using `SUBQUERIEs`
    - Window Function `OVER`,`ROW_NUMBER`,`RANK`,`DENSE_RANK`
+3. [**📝Advanced Level**](./Advanced_SQL/)
+   - Using `CTEs`
+   - Create `TEMPORARY Table`
+   - Create `Stored PROCEDURE`
+   - Create `TRIGGERs` and `EVENTs`
